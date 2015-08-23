@@ -1,3 +1,1 @@
-# Testing
-GitHub Checkpoint Assignment
- 
+GitHub Checkpoint Assingnment
